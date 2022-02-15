@@ -1,0 +1,13 @@
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\bin\Release\rangoprimos.exe.config
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\bin\Release\rangoprimos.exe
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\bin\Release\rangoprimos.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\bin\Release\Negocio.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\bin\Release\Datos.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\bin\Release\Negocio.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\bin\Release\Datos.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\obj\Release\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\obj\Release\rangoprimos.Presentacion.resources
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\obj\Release\rangoprimos.Properties.Resources.resources
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\obj\Release\Presentacion.csproj.GenerateResource.Cache
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\obj\Release\rangoprimos.exe
+C:\Users\std009\Documents\c\taller\rangoprimos1\rangoprimos\obj\Release\rangoprimos.pdb

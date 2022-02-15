@@ -1,0 +1,9 @@
+C:\Users\std009\Desktop\c\taller\rangoprimos\Datos\bin\Debug\Datos.dll
+C:\Users\std009\Desktop\c\taller\rangoprimos\Datos\bin\Debug\Datos.pdb
+C:\Users\std009\Desktop\c\taller\rangoprimos\Datos\obj\Debug\Datos.dll
+C:\Users\std009\Desktop\c\taller\rangoprimos\Datos\obj\Debug\Datos.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\bin\Debug\Datos.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\bin\Debug\Datos.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\obj\Debug\Datos.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\obj\Debug\Datos.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache

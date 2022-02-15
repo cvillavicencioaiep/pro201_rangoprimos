@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "rangoprimos\Presentacion.csproj", "{1B45A5D4-185F-41F4-B3AF-0495BF7A8D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{2A827722-1579-4B09-B418-91AD1998BF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{B48479A1-DF51-4120-95BC-B03D59656A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B45A5D4-185F-41F4-B3AF-0495BF7A8D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B45A5D4-185F-41F4-B3AF-0495BF7A8D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B45A5D4-185F-41F4-B3AF-0495BF7A8D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B45A5D4-185F-41F4-B3AF-0495BF7A8D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A827722-1579-4B09-B418-91AD1998BF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A827722-1579-4B09-B418-91AD1998BF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A827722-1579-4B09-B418-91AD1998BF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A827722-1579-4B09-B418-91AD1998BF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48479A1-DF51-4120-95BC-B03D59656A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48479A1-DF51-4120-95BC-B03D59656A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48479A1-DF51-4120-95BC-B03D59656A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48479A1-DF51-4120-95BC-B03D59656A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

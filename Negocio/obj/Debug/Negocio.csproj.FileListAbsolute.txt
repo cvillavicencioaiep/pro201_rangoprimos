@@ -1,0 +1,14 @@
+C:\Users\std009\Desktop\c\taller\rangoprimos\Negocio\bin\Debug\Negocio.dll
+C:\Users\std009\Desktop\c\taller\rangoprimos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\std009\Desktop\c\taller\rangoprimos\Negocio\bin\Debug\Datos.dll
+C:\Users\std009\Desktop\c\taller\rangoprimos\Negocio\bin\Debug\Datos.pdb
+C:\Users\std009\Desktop\c\taller\rangoprimos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\std009\Desktop\c\taller\rangoprimos\Negocio\obj\Debug\Negocio.dll
+C:\Users\std009\Desktop\c\taller\rangoprimos\Negocio\obj\Debug\Negocio.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\bin\Debug\Negocio.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\bin\Debug\Datos.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\bin\Debug\Datos.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\obj\Debug\Negocio.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,4 @@
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\bin\Release\Datos.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\bin\Release\Datos.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\obj\Release\Datos.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Datos\obj\Release\Datos.pdb

@@ -1,0 +1,7 @@
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\bin\Release\Negocio.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\bin\Release\Negocio.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\bin\Release\Datos.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\bin\Release\Datos.pdb
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\obj\Release\Negocio.dll
+C:\Users\std009\Documents\c\taller\rangoprimos1\Negocio\obj\Release\Negocio.pdb
